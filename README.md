@@ -28,7 +28,6 @@ This project is licensed under the [Apache License 2.0](https://opensource.org/l
 ## Contribution
 This is for homework purposes only. Please do not contribute to this project.
 
-
 ## Tests
 Not Applicable
 
@@ -37,4 +36,8 @@ If you have any questions or need further clarification, feel free to reach out:
 
 - GitHub[https://github.com/Cscrivens](https://github.com/your-github-username)
 - Email: testing@yahoo.com.com
+
+## Links
+Screencastify : https://drive.google.com/file/d/1VVQ3E56Zw-WZXuNX53vzt69psSkRI2pg/view
+Github: https://github.com/Cscrivens/READMEGenerator.git
 
