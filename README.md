@@ -20,9 +20,9 @@ Please clone the link into your terminal to install.
 Please enter node index.js into your terminal.
 
 ## License
-[![License](https://img.shields.io/badge/license-choosealicense-blue.svg)](https://opensource.org/licenses/choosealicense)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the [Choose a License] license.
+This project is licensed under the [MIT license](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
 
 ## Contribution
 This is for homework purposes only. Please do not contribute to this project.
