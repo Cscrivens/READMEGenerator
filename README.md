@@ -17,7 +17,8 @@ The generated README includes sections such as project description, installation
 Please clone the link into your terminal to install.
 
 ## Usage
-Please enter node index.js into your terminal.
+The application will be invoked by using the following command:
+node index.js
 
 ## License
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
