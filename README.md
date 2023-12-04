@@ -20,9 +20,9 @@ Please clone the link into your terminal to install.
 Please enter node index.js into your terminal.
 
 ## License
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This project is licensed under the [MIT license](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0). See the [LICENSE](LICENSE) file for details.
 
 ## Contribution
 This is for homework purposes only. Please do not contribute to this project.
