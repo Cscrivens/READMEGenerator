@@ -34,10 +34,10 @@ Not Applicable
 ## Questions
 If you have any questions or need further clarification, feel free to reach out:
 
-- GitHub[https://github.com/Cscrivens](https://github.com/your-github-username)
+- GitHub: [https://github.com/Cscrivens](https://github.com/your-github-username)
 - Email: testing@yahoo.com.com
 
 ## Links
-Screencastify : https://drive.google.com/file/d/1VVQ3E56Zw-WZXuNX53vzt69psSkRI2pg/view
-Github: https://github.com/Cscrivens/READMEGenerator.git
+- Screencastify : https://drive.google.com/file/d/1VVQ3E56Zw-WZXuNX53vzt69psSkRI2pg/view
+- Github: https://github.com/Cscrivens/READMEGenerator.git
 
